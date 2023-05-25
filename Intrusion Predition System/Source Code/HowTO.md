@@ -1,3 +1,4 @@
+# HowTo
 To make it work the Project -
 First install Anaconda and open VScode via Anaconda Navigator to run the program.
 
